@@ -1,1 +1,1 @@
-# Piscine-ocaml
+# Piscine ocaml
